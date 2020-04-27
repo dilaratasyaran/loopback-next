@@ -280,7 +280,9 @@
 /packages/authentication @emonddr @hacksparrow @jannyHou
 /packages/security @emonddr @hacksparrow @jannyHou
 /extensions/authentication-passport @emonddr @hacksparrow @jannyHou
+/extensions/authentication-jwt @emonddr @hacksparrow @jannyHou
 /docs/site/tutorials/authentication @emonddr @hacksparrow @jannyHou
+/examples/passport-login @deepakrkris @emonddr
 
 #
 # Authorization
